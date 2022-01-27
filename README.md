@@ -1,6 +1,6 @@
 ## Apresentacao-Pessoal
 
-MeChamo Rafael tenho 38anos Pai de 3 Lindos Filhos(MINHA CARA CLARO ) Casado a 18anos
+Me Chamo Rafael tenho 38anos Pai de 3 Lindos Filhos(MINHA CARA CLARO ) Casado a 18anos
 Muitos Sonhos Realizados e Tantos outros a Serem Concluidos 
 Vida Profissional em Desafios 
 Comecei minha Vida Profissional Muito Cedo aos 12 Anos ja Trabalhava em uma Oficina Mecanica
@@ -23,3 +23,8 @@ o Mundo Digital Evolui a Cada Dia e Tenho Certeza que estou Embarcado Nesta nova
 Os Meus Esforcos e Dedicacao Falaram por Mim em Algum Momento meu Nome Servira como Assinatura kkkk
 Agora e Focar na Programacao e em Breve Apostar em uma Faculdade afinal Niguem e Tao Sabio que nao Possa Aprender 
 Agora Vamos La Testar o Git kkkk porque quero ver ele Funcionar juntamente com este GITHUB"
+
+ Prontinho Projeto Entregue entre Git e GitHub 
+
+Agradeco ao Venilto FalvoJr Pela Experiencia Didatica e Teorica Muito Fera Abracos 
+
